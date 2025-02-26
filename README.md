@@ -1,4 +1,7 @@
+# go-multiplayer-game (in future)
+
 This project implements a multiplayer movement of sprites in go.
+
 Note: I was going through the blog by healey https://healeycodes.com/2d-multiplayer-from-scratch and it inspired me to try this.
 
 Steps
@@ -29,4 +32,3 @@ go-multiplayer-game % go run main.go
 
 Roadmap:
 [] implement two sprites shooting each other
-# go-multiplayer-game
