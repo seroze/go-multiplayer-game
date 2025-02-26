@@ -30,5 +30,5 @@ go-multiplayer-game % go run main.go
 2025/02/26 09:24:21 Broadcasting game state: {"1740542055820225000":{"ID":"1740542055820225000","X":395,"Y":380,"color":"blue"},"1740542060230895000":{"ID":"1740542060230895000","X":395,"Y":385,"color":"purple"}}
 ```
 
-Roadmap:
+## Roadmap:
 [] implement two sprites shooting each other
